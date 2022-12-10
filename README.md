@@ -51,6 +51,7 @@ Go to the link in the screen shot ```http://127.0.0.1:8000/docs``` to open the s
 
 
 
+
 ### To run the project using virtual environemnt 
 ```
 python -m venv env   
@@ -66,6 +67,13 @@ uvicorn serve:app
 ```
 streamlit run streamlit.py
 ```
+### Streamlit tests
+- Real Name
+  ![Screenshot](images/st1.png)
+- Fake names
+  ![Screenshot](images/st2.png)  
+  ![Screenshot](images/st3.png)  
+
 ### Run the trainning script
 ```
 python train.py
