@@ -1,4 +1,4 @@
-# Real-Fake-Names
+# Real-Names-Checker
  The purpose of this project is determine if the (3 words name) is real or fake
 
  ## Files Structure   
