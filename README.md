@@ -17,15 +17,15 @@
 │   └───utils.py -> load the model and tokenizer  
 │   
 │       
-└───final_models -> conatin deep learning model weights and tokenizer pickle file 
+└───final_models -> conatin deep learning model weights and tokenizer pickle file   
 │   │  
 │   └───tokenizers -> contain the tokenizer pickle file            
 │       
-└───models -> contain models Implementations 
+└───models -> contain models Implementations  
 │   │  
-│   └───lstm.py => contains the LSTM network implementation 
+│   └───lstm.py => contains the LSTM network implementation       
 │   │  
-│   └───CNN.py => contains 1 dimensional CNN network implementation
+│   └───CNN.py => contains 1 dimensional CNN network implementation   
 │       
 └───shared_param -> contains all shared parameters such as tokenizer path and model path               
 │   
