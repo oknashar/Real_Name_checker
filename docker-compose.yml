@@ -1,0 +1,7 @@
+version: '3'
+services:
+  name-checker:
+    container_name: 'Name-checker-container'
+    build: .  
+    ports:
+      - "8000:8000"
